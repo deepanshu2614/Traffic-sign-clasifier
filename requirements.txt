@@ -1,7 +1,7 @@
 pip==25.1.1
 tensorflow==2.15.0
 keras==2.15.0
-opencv-python
+opencv-python-headless
 numpy
 pillow
 streamlit
